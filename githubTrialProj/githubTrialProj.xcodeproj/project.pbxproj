@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		205D6E4D201755E7001D5E3F /* KiranStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 205D6E4C201755E7001D5E3F /* KiranStoryboard.storyboard */; };
 		3F9EA6BD20172EE100C7B3E5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9EA6BC20172EE100C7B3E5 /* AppDelegate.swift */; };
 		3F9EA6BF20172EE100C7B3E5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9EA6BE20172EE100C7B3E5 /* ViewController.swift */; };
 		3F9EA6C220172EE100C7B3E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F9EA6C020172EE100C7B3E5 /* Main.storyboard */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		205D6E4C201755E7001D5E3F /* KiranStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = KiranStoryboard.storyboard; sourceTree = "<group>"; };
 		3F9EA6B920172EE100C7B3E5 /* githubTrialProj.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = githubTrialProj.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F9EA6BC20172EE100C7B3E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3F9EA6BE20172EE100C7B3E5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				3F9EA6BC20172EE100C7B3E5 /* AppDelegate.swift */,
 				3F9EA6BE20172EE100C7B3E5 /* ViewController.swift */,
 				3F9EA6C020172EE100C7B3E5 /* Main.storyboard */,
+				205D6E4C201755E7001D5E3F /* KiranStoryboard.storyboard */,
 				3F9EA6D12017323400C7B3E5 /* veena.storyboard */,
 				3F9EA6D32017324500C7B3E5 /* swetha.storyboard */,
 				3F9EA6D52017325800C7B3E5 /* shivakumar.storyboard */,
@@ -151,6 +154,7 @@
 				3F9EA6D82017326A00C7B3E5 /* ramesh.storyboard in Resources */,
 				3F9EA6DA2017327E00C7B3E5 /* vijayalakshmi.storyboard in Resources */,
 				3F9EA6D62017325800C7B3E5 /* shivakumar.storyboard in Resources */,
+				205D6E4D201755E7001D5E3F /* KiranStoryboard.storyboard in Resources */,
 				3F9EA6D22017323400C7B3E5 /* veena.storyboard in Resources */,
 				3F9EA6C220172EE100C7B3E5 /* Main.storyboard in Resources */,
 			);

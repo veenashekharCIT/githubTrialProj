@@ -27,7 +27,7 @@
                         <segue destination="r1q-Aw-cnV" kind="push" identifier="toSneha" id="KUH-jr-EJY"/>
                         <segue destination="Dgd-ds-LB6" kind="push" identifier="toSwetha" id="vjJ-nx-oeh"/>
                         <segue destination="bWF-fm-kfR" kind="push" identifier="toVijayalakshmi" id="I4L-Hx-zJC"/>
-                        <segue destination="QR3-Zu-JWq" kind="push" identifier="toKiran" id="s5l-jb-QWI"/>
+                        <segue destination="H47-aV-Jvg" kind="push" identifier="kiran" id="aBg-D5-MkL"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
@@ -94,15 +94,15 @@
             </objects>
             <point key="canvasLocation" x="1108.8" y="202.39880059970017"/>
         </scene>
-        <!--Kiran-->
-        <scene sceneID="DJD-CB-lf1">
+        <!--KiranStoryboard-->
+        <scene sceneID="07g-A1-HrX">
             <objects>
-                <viewControllerPlaceholder storyboardName="Kiran" id="QR3-Zu-JWq" sceneMemberID="viewController">
-                    <navigationItem key="navigationItem" id="pVZ-bS-Lbl"/>
+                <viewControllerPlaceholder storyboardName="KiranStoryboard" id="H47-aV-Jvg" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="Jxr-Nt-k7o"/>
                 </viewControllerPlaceholder>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="MfV-lI-TfR" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="lZy-LN-AhE" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1055" y="326"/>
+            <point key="canvasLocation" x="1012" y="269"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="nmw-Z2-DKw">
