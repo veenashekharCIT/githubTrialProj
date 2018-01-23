@@ -13,6 +13,12 @@
 		3F9EA6C520172EE100C7B3E5 /* githubTrialProj.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3F9EA6C320172EE100C7B3E5 /* githubTrialProj.xcdatamodeld */; };
 		3F9EA6C720172EE100C7B3E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F9EA6C620172EE100C7B3E5 /* Assets.xcassets */; };
 		3F9EA6CA20172EE100C7B3E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F9EA6C820172EE100C7B3E5 /* LaunchScreen.storyboard */; };
+		3F9EA6D22017323400C7B3E5 /* veena.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F9EA6D12017323400C7B3E5 /* veena.storyboard */; };
+		3F9EA6D42017324500C7B3E5 /* swetha.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F9EA6D32017324500C7B3E5 /* swetha.storyboard */; };
+		3F9EA6D62017325800C7B3E5 /* shivakumar.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F9EA6D52017325800C7B3E5 /* shivakumar.storyboard */; };
+		3F9EA6D82017326A00C7B3E5 /* ramesh.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F9EA6D72017326A00C7B3E5 /* ramesh.storyboard */; };
+		3F9EA6DA2017327E00C7B3E5 /* vijayalakshmi.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F9EA6D92017327E00C7B3E5 /* vijayalakshmi.storyboard */; };
+		3F9EA6DC2017328C00C7B3E5 /* sneha.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F9EA6DB2017328C00C7B3E5 /* sneha.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +30,12 @@
 		3F9EA6C620172EE100C7B3E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F9EA6C920172EE100C7B3E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F9EA6CB20172EE100C7B3E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F9EA6D12017323400C7B3E5 /* veena.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = veena.storyboard; sourceTree = "<group>"; };
+		3F9EA6D32017324500C7B3E5 /* swetha.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = swetha.storyboard; sourceTree = "<group>"; };
+		3F9EA6D52017325800C7B3E5 /* shivakumar.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = shivakumar.storyboard; sourceTree = "<group>"; };
+		3F9EA6D72017326A00C7B3E5 /* ramesh.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ramesh.storyboard; sourceTree = "<group>"; };
+		3F9EA6D92017327E00C7B3E5 /* vijayalakshmi.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = vijayalakshmi.storyboard; sourceTree = "<group>"; };
+		3F9EA6DB2017328C00C7B3E5 /* sneha.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = sneha.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +71,12 @@
 				3F9EA6BC20172EE100C7B3E5 /* AppDelegate.swift */,
 				3F9EA6BE20172EE100C7B3E5 /* ViewController.swift */,
 				3F9EA6C020172EE100C7B3E5 /* Main.storyboard */,
+				3F9EA6D12017323400C7B3E5 /* veena.storyboard */,
+				3F9EA6D32017324500C7B3E5 /* swetha.storyboard */,
+				3F9EA6D52017325800C7B3E5 /* shivakumar.storyboard */,
+				3F9EA6D72017326A00C7B3E5 /* ramesh.storyboard */,
+				3F9EA6D92017327E00C7B3E5 /* vijayalakshmi.storyboard */,
+				3F9EA6DB2017328C00C7B3E5 /* sneha.storyboard */,
 				3F9EA6C620172EE100C7B3E5 /* Assets.xcassets */,
 				3F9EA6C820172EE100C7B3E5 /* LaunchScreen.storyboard */,
 				3F9EA6CB20172EE100C7B3E5 /* Info.plist */,
@@ -126,8 +144,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F9EA6DC2017328C00C7B3E5 /* sneha.storyboard in Resources */,
 				3F9EA6CA20172EE100C7B3E5 /* LaunchScreen.storyboard in Resources */,
 				3F9EA6C720172EE100C7B3E5 /* Assets.xcassets in Resources */,
+				3F9EA6D42017324500C7B3E5 /* swetha.storyboard in Resources */,
+				3F9EA6D82017326A00C7B3E5 /* ramesh.storyboard in Resources */,
+				3F9EA6DA2017327E00C7B3E5 /* vijayalakshmi.storyboard in Resources */,
+				3F9EA6D62017325800C7B3E5 /* shivakumar.storyboard in Resources */,
+				3F9EA6D22017323400C7B3E5 /* veena.storyboard in Resources */,
 				3F9EA6C220172EE100C7B3E5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
